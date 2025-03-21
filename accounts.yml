@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related docker 3 ss "
+  message: "Welcome to Bank accounts related docker 3  "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
